@@ -97,7 +97,7 @@ CWALLET_QR = os.getenv("CWALLET_QR", "").strip()
 CWALLET_ID = os.getenv("CWALLET_ID", "").strip()
 
 UPI_MID = os.getenv("UPI_MID", "").strip()
-UPI_ID = os.getenv("UPI_ID", "").strip()
+UPI_ID = os.getenv("UPI_ID", "usadevi@yapl").strip()
 
 LZT_TOKEN = os.getenv("LZT_TOKEN", "").strip()
 LZT_BASE_URL = os.getenv("LZT_BASE_URL", "https://prod-api.lzt.market").rstrip("/")
